@@ -1,5 +1,5 @@
 # Springboot-setup
-This is how to setup a springboot project on windows with powershell
+This is how to setup a springboot project on windows with powershell.
 
 1. Use https://start.spring.io/ to install a springboot project with maven, java, and a stable version of springboot
 2. Change the group name and artifact name as you wish
